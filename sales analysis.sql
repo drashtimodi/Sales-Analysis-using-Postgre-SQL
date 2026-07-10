@@ -43,7 +43,7 @@ CREATE TABLE ecommerce(
 		Holiday_Season	VARCHAR(20)
 
 );
---DROP TABLE ecommerce;
+
 SELECT * FROM ecommerce;
 
 --Beginner Level
